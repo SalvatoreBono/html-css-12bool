@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.white {
+    background-color: white;
+}
+
+.grey {
+    background-color: rgb(133, 133, 133);
+}
+
+.light-grey {
+    background-color: rgb(184, 184, 184);
+}
+
+.orange {
+    background-color: rgb(245, 108, 35);
+}
+
+.dark-orange {
+    background-color: rgb(245, 79, 35);
+}
+
+.brown {
+    background-color: rgb(189, 59, 31);
+}
